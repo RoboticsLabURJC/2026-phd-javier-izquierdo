@@ -17,7 +17,7 @@ title: Javier Izquierdo PhD blog
 description: A Jekyll theme for documentation
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://roboticslaburjc.github.io/2026-phd-javier-izquierdo" # the base hostname & protocol for your site, e.g. http://example.com
-
+repository: RoboticsLabURJC/2026-phd-javier-izquierdo
 permalink: pretty
 
 defaults:

@@ -7,7 +7,7 @@ nav_order: 2
 # Search
 {: .no_toc }
 
-Papers: [paper 1](https://www.terecop.eu/TRTWR-RIE2014/files/00_WFr1/00_WFr1_04.pdf), [paper 2](https://link.springer.com/article/10.1007/s41686-017-0005-1)
+Papers: [paper 1](https://www.terecop.eu/TRTWR-RIE2014/files/00_WFr1/00_WFr1_04.pdf), [paper 2](https://link.springer.com/article/10.1007/s41686-017-0005-1), [paper 3](https://www.researchgate.net/profile/Theodosios-Sapounidis/publication/351556747_Educational_robotics_curricula_current_trends_and_shortcomings/links/60ddad1aa6fdccb745fb78de/Educational-robotics-curricula-current-trends-and-shortcomings.pdf)
 
 Universidades: [URJC](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software#competencias), [UC3M](https://www.uc3m.es/grado/robotica#competenciasqueotorgaelgrado), [UA](https://web.ua.es/es/grados/grado-en-ingenieria-robotica/plan-de-estudios.html), [USC](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-robotica-2a-edicion)
 

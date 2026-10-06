@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PhD Javier Izquierdo
+description: Javier Izquierdo PhD blog
 theme: just-the-docs
 color_scheme: dark
 
@@ -8,7 +8,7 @@ repository: RoboticsLabURJC/2026-phd-javier-izquierdo
 permalink: pretty
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github Repository: https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo
 
 plugins:
   - jekyll-seo-tag

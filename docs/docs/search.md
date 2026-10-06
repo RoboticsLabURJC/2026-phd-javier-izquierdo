@@ -1,7 +1,7 @@
 ---
 title: Search
-layout: home
-nav_order: 1
+layout: post
+nav_order: 2
 ---
 
 # Search

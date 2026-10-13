@@ -2,8 +2,6 @@
 title: Search
 layout: post
 nav_order: 2
-
-img_path: /assets/img/
 ---
 
 # Search
@@ -35,7 +33,7 @@ Competencias:
 
 [Carnegie](https://www.cmu.edu/online/foundations-robotic-interactions): 
 https://www.ri.cmu.edu/education/academic-programs/bachelor-of-science-in-robotics/
-![Stack](carnegie_robotics.png)
+![Stack](../assets/img/carnegie_robotics.png)
 
 [Standford](https://online.stanford.edu/courses/cs223a-introduction-robotics):
 https://online.stanford.edu/programs/robotics-and-autonomous-systems-graduate-certificate
@@ -47,4 +45,4 @@ https://meche.mit.edu/education/undergraduate
 
 [UTokyo](https://www.kikaib.t.u-tokyo.ac.jp/komaba/curriculum/)
 
-![Tree](utokyo_tree_english.png)
+![Tree](../assets/img/utokyo_tree_english.png)

@@ -33,7 +33,7 @@ Competencias:
 
 [Carnegie](https://www.cmu.edu/online/foundations-robotic-interactions): 
 https://www.ri.cmu.edu/education/academic-programs/bachelor-of-science-in-robotics/
-![Stack](../assets/img/carnegie_robotics.png)
+![Stack](https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo/blob/d1911a0c48baac7032e85a7dc26b511c565711bf/docs/assets/img/carnegie_robotics.png)
 
 [Standford](https://online.stanford.edu/courses/cs223a-introduction-robotics):
 https://online.stanford.edu/programs/robotics-and-autonomous-systems-graduate-certificate
@@ -45,4 +45,4 @@ https://meche.mit.edu/education/undergraduate
 
 [UTokyo](https://www.kikaib.t.u-tokyo.ac.jp/komaba/curriculum/)
 
-![Tree](../assets/img/utokyo_tree_english.png)
+![Tree](https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo/blob/d1911a0c48baac7032e85a7dc26b511c565711bf/docs/assets/img/utokyo_tree_english.png)

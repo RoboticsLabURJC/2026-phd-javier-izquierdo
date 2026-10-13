@@ -45,4 +45,4 @@ https://meche.mit.edu/education/undergraduate
 
 [UTokyo](https://www.kikaib.t.u-tokyo.ac.jp/komaba/curriculum/)
 
-![Tree](https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo/blob/main/docs/assets/img/utokyo_tree_english.png?raw=true)
+![Tree](https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo/blob/main/docs/assets/img/utokyo_tree_english.jpg?raw=true)

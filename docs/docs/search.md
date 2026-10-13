@@ -2,6 +2,8 @@
 title: Search
 layout: post
 nav_order: 2
+
+img_path: /assets/img/
 ---
 
 # Search
@@ -30,3 +32,19 @@ Falta de curricular resources para la enseñanza apropiada para la edad. Y la ma
 
 Competencias:
 - Control automático -> Ingeniería de Control -> Aplicación a robótica
+
+[Carnegie](https://www.cmu.edu/online/foundations-robotic-interactions): 
+https://www.ri.cmu.edu/education/academic-programs/bachelor-of-science-in-robotics/
+![Stack](carnegie_robotics.png)
+
+[Standford](https://online.stanford.edu/courses/cs223a-introduction-robotics):
+https://online.stanford.edu/programs/robotics-and-autonomous-systems-graduate-certificate
+
+[MIT](https://meche.mit.edu/):
+https://meche.mit.edu/education/undergraduate
+
+[ZTH](https://master-robotics.ethz.ch/curriculum.html)
+
+[UTokyo](https://www.kikaib.t.u-tokyo.ac.jp/komaba/curriculum/)
+
+![Tree](utokyo_tree_english.png)

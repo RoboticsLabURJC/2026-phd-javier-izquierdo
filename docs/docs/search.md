@@ -46,3 +46,45 @@ https://meche.mit.edu/education/undergraduate
 [UTokyo](https://www.kikaib.t.u-tokyo.ac.jp/komaba/curriculum/)
 
 ![Tree](https://github.com/RoboticsLabURJC/2026-phd-javier-izquierdo/blob/main/docs/assets/img/utokyo_tree_english.jpg?raw=true)
+
+- https://ep.jhu.edu/programs/robotics-and-autonomous-systems/
+- https://catalog.northeastern.edu/graduate/university-interdisciplinary-programs/robotics-ms-bos/#programrequirementstext
+- https://www.mccormick.northwestern.edu/robotics/curriculum/
+- https://www.kcl.ac.uk/study/postgraduate-taught/courses/robotics-msc
+- https://www.ox.ac.uk/admissions/graduate/courses/msc-autonomous-robotics
+- https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/curriculum/ // https://www.ri.cmu.edu/app/uploads/2026/09/MSR-Handbook_2026-27.docx.pdf?resolved=1
+- https://www.purdue.edu/online/program/master-of-science-in-robotics/
+- https://www.bu.edu/eng/academics/explore-degree-programs/master-of-science-in-robotics-autonomous-systems/
+- https://ethz.ch/content/dam/ethz/special-interest/mavt/department-dam/studium/master-programs/documents/myStudies_Tutor%20selection%20and%20Learning%20Agreement.pdf
+- https://www.chubu.ac.jp/english/academics/graduate-engineering/robot/
+
+## Competencias básicas:
+
+- Programación: C -> C++, Python
+- Matemáticas: Álgebra, Cálculo, Estadística, (Optimización)
+- Física: nivel básico
+- Ingeniería de control: 
+- Ingeniería electrónica: diseño de circuitos
+
+### Competencias Robóticas
+
+- Sensores
+- Actuadores
+- Aplicación programación + física: Ingeniería de simulación
+- Robótica movil
+- HRI
+- Aplicaticón control + robótica: Robótica industrial
+- Robótica de servicios
+- Manipulación robótica
+
+### Software exclusivo
+
+- Redes y comunicaciones
+- Aplicación programación + matemáticas: Inteligencia Artificial
+- Aplicación programación + matemáticas + sensor(cámara): Vision artificial
+
+### Hardware exclusivo (Mecatrónica)
+
+- Fluidos
+- Materiales
+- Termodinámica
